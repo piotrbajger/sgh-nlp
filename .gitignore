@@ -106,3 +106,7 @@ venv.bak/
 # 20news
 test/
 train/
+
+pptx/
+**.pptx
+**.xlsx
